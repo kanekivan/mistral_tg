@@ -1,0 +1,15 @@
+{
+  "short_name": "MyWebApp",
+  "name": "My Telegram Web App",
+  "start_url": "https://kanekivan.github.io/mistral_tg/",
+  "display": "standalone",
+  "background_color": "#FFFFFF",
+  "description": "A simple web app for Telegram",
+  "icons": [
+    {
+      "src": "https://your-username.github.io/my-telegram-web-app/icon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
